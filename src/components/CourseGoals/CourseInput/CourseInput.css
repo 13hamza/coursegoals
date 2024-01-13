@@ -22,11 +22,11 @@
   background: #fad0ec;
   border-color: #8b005d;
 }
-<<<<<<< HEAD
+
 .error_msg{
   color: red;
 }
-=======
+
 
 .form-control.invalid input {
   border-color: #8b005d;
@@ -41,4 +41,4 @@
   color: red;
   font-size: 0.75rem;
 }
->>>>>>> 7fde7f6e9ed81a6798943ceee7391b786a86be80
+
